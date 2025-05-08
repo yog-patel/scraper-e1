@@ -103,7 +103,39 @@ const {
 async function main() {
 
     const urls = [
-        "https://www.mvlempyr.com/novel/blessed-to-be-the-villain"
+          "https://www.mvlempyr.com/novel/earths-greatest-magus",
+  "https://www.mvlempyr.com/novel/eaten-by-the-tyrant-i-raised",
+  "https://www.mvlempyr.com/novel/eight-treasures-trousseau",
+  "https://www.mvlempyr.com/novel/eldritch-creatures-guide",
+  "https://www.mvlempyr.com/novel/elf-tensei-kara-no-cheat-kenkoku-ki",
+  "https://www.mvlempyr.com/novel/emperor-of-solo-play",
+  "https://www.mvlempyr.com/novel/empire-of-india-rise-of-the-ruthless-prince",
+  "https://www.mvlempyr.com/novel/empress-with-no-virtue",
+  "https://www.mvlempyr.com/novel/enchantress-amongst-alchemists-ghost-kings-wife",
+  "https://www.mvlempyr.com/novel/end-of-days-game-im-the-only-one-who-can-see-the-hidden-cues",
+  "https://www.mvlempyr.com/novel/ending-maker",
+  "https://www.mvlempyr.com/novel/endless-evolution-last-star",
+  "https://www.mvlempyr.com/novel/endless-horde-through-the-eyes-of-a-godking",
+  "https://www.mvlempyr.com/novel/endo-and-kobayashis-live-commentary-on-the-villainess",
+  "https://www.mvlempyr.com/novel/enemies-are-all-nourishment-for-my-fungi",
+  "https://www.mvlempyr.com/novel/epic-of-caterpillar",
+  "https://www.mvlempyr.com/novel/epic-of-ice-dragon-reborn-as-an-ice-dragon-with-a-system",
+  "https://www.mvlempyr.com/novel/epic-of-vampire-dragon-reborn-as-a-vampire-dragon-with-a-system",
+  "https://www.mvlempyr.com/novel/era-of-players-death-god",
+  "https://www.mvlempyr.com/novel/ero-academy",
+  "https://www.mvlempyr.com/novel/ero-meter",
+  "https://www.mvlempyr.com/novel/eroge-i-can-travel-to-the-ancient-world",
+  "https://www.mvlempyr.com/novel/erotic-adventures-in-the-omniverse-vampire-lord-got-too-many-wives",
+  "https://www.mvlempyr.com/novel/escaping-the-mystery-hotel",
+  "https://www.mvlempyr.com/novel/esper-harem-in-the-apocalypse",
+  "https://www.mvlempyr.com/novel/eternal-cultivation-of-alchemy",
+  "https://www.mvlempyr.com/novel/eternal-emperors-path-to-ascension",
+  "https://www.mvlempyr.com/novel/eternal-life-begins-with-saving-my-clan",
+  "https://www.mvlempyr.com/novel/eternal-love-a-love-story",
+  "https://www.mvlempyr.com/novel/eternal-temptation-awakening-sinful-desires",
+  "https://www.mvlempyr.com/novel/eternal-thief",
+  "https://www.mvlempyr.com/novel/eternal-undying-chronicles",
+  "https://www.mvlempyr.com/novel/evade-the-hero-and-flee",
       ];
 
     const browser = await launchBrowser();
